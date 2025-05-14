@@ -1,0 +1,1 @@
+Scammers are on the rise and there are more and more people falling into the scammers' trick in desperation for a job. To create this job scam classifier would be helpful to prevent the innocent to fall into the trap and losing hard earned money.
